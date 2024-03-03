@@ -28,6 +28,7 @@
 
 - スクール課題
 - フロントエンドの Next はこちら（[Next.js](https://github.com/shiba30/twitter_nextjs_frontend)）
+- バックエンドの Echo はクリーンアーキテクチャで作成します
 
 ## 設計
 
@@ -82,4 +83,4 @@
 
 ### 動作確認
 
-http://localhost:3000/ にブラウザからアクセスできたら成功
+http://localhost:1323/ にブラウザからアクセスできたら成功
